@@ -1,0 +1,25 @@
+my-nodejs-ts-app/
+├── src/
+│   ├── controllers/
+│   │   ├── auth.controller.ts
+│   │   ├── product.controller.ts
+│   │   ├── user.controller.ts
+│   ├── middleware/
+│   │   ├── auth.middleware.ts
+│   ├── models/
+│   │   ├── product.model.ts
+│   │   ├── user.model.ts
+│   ├── routes/
+│   │   ├── auth.routes.ts
+│   │   ├── product.routes.ts
+│   │   ├── user.routes.ts
+│   ├── services/
+│   │   ├── auth.service.ts
+│   │   ├── product.service.ts
+│   │   ├── user.service.ts
+│   ├── app.ts
+│   ├── server.ts
+├── .env
+├── tsconfig.json
+├── package.json
+├── README.md
